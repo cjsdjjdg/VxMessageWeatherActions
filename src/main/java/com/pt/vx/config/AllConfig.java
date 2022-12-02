@@ -23,8 +23,8 @@ import java.util.List;
  */
 public class AllConfig {
     public static final String VxAppId = "wx4399c710c0684b67";
-    public static final String VxAppSecret = "微信的密钥";
-    public static final String WeatherKey = "高德地图key";
+    public static final String VxAppSecret = "85715caf8efd392f685ca41f3367d0d0";
+    public static final String WeatherKey = "7d758ae3166a0bd588235d088afa2f3f";
     public static final String WeatherKey_HeFeng = "和风天气KEY";
 
     //下列所有填写的  true 为开启， false 为不开启 ，#XXXXXX是颜色16进制HEX码（不知道颜色16进制HEX码可以百度）
